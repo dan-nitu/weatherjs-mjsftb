@@ -1,0 +1,6 @@
+About:
+-ES6
+-Classes
+-fetch
+-async - await
+-local storage
